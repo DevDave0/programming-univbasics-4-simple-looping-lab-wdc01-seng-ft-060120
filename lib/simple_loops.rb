@@ -1,10 +1,6 @@
 # Write your methods here
 
 def loop_message_five_times(message)
-  counter = 0 
-  while message < 5 do 
-    puts message
-    counter += 1 
-  end 
+  messages.times.5
 end 
   
